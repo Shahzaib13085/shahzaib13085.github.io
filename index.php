@@ -257,18 +257,19 @@
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
             <ul class="navbar-nav mr-auto">
               <li class="nav-item active">
-                  <a class="nav-link parent-link" href="index.html">Home</a>
+				
+                  <a class="nav-link parent-link" href="http://localhost/mywebsite/index.html">Home</a>
               </li>
               <li class="nav-item">
-				  <a class="nav-link parent-link" href="index.php">Customers</a>
+				  <a class="nav-link parent-link" href="http://localhost/mywebsite/index.php">Customers</a>
                  
               </li>
               <li class="nav-item">
-				  <a class="nav-link parent-link" href="transfermoney.php">Transfer Money</a>
+				  <a class="nav-link parent-link" href="http://localhost/mywebsite/transfermoney.php">Transfer Money</a>
                 
               </li>
               <li class="nav-item">
-				  <a class="nav-link parent-link" href="transactionhistory.php">Transaction History</a> 
+				  <a class="nav-link parent-link" href="http://localhost/mywebsite/transactionhistory.php">Transaction History</a> 
                  
               </li>
             </ul>
